@@ -5,6 +5,11 @@ This project is a simple calculator application built using HTML, CSS, and JavaS
 
 - Addition, subtraction, multiplication, and division operations
 - Clear button to reset the calculator
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
 ## Usage
 Enter the numbers and perform calculations using the buttons.
 The result will be displayed in the calculator's display area.
